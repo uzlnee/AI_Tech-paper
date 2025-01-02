@@ -90,6 +90,28 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 
 ## 2.5 Semantic Segmentation
+- [FCN](https://arxiv.org/abs/1411.4038)
+- [DeconvNet](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
+- [SegNet](https://arxiv.org/pdf/1511.00561)
+- [FCDenseNet](https://arxiv.org/pdf/1611.09326)
+- [Unet](https://arxiv.org/abs/1505.04597)
+- [DeepLabv1](https://arxiv.org/pdf/1412.7062)
+- [DilatedNet ](https://arxiv.org/abs/1511.07122)
+- [DeepLabv2](https://arxiv.org/pdf/1606.00915)
+- [PSPNet](https://arxiv.org/pdf/1612.01105)
+- [DeepLabv3](https://arxiv.org/pdf/1706.05587)
+- [DeepLabv3+](https://arxiv.org/pdf/1802.02611)
+- [Unet](https://arxiv.org/abs/1505.04597)
+- [Unet++](https://arxiv.org/pdf/1912.05074)
+- [Unet3+](https://arxiv.org/abs/2004.08790)
+- [EfficientUnet](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w22/Baheti_Eff-UNet_A_Novel_Architecture_for_Semantic_Segmentation_in_Unstructured_Environment_CVPRW_2020_paper.pdf)
+- [DenseUnet](https://arxiv.org/abs/1611.09326)
+- [ResidualUnet](https://arxiv.org/pdf/1711.10684)
+- [SWA](https://arxiv.org/abs/1803.05407)
+- [HRNet](https://arxiv.org/pdf/1908.07919)
+- [SegFormer](https://arxiv.org/pdf/2105.15203)
+- [ViT](https://arxiv.org/pdf/2010.11929)
+- [Weakly Supervised Object Localization and Detection: A Survey](https://arxiv.org/abs/2104.07918)
 
 # 3. NLP 트랙 정리(Only Paper)
 ## 3.1 NLP 이론
@@ -110,8 +132,55 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 # 5. 공통 강의에서 소개한 논문 정리
 ## 5.1 Generative AI
+- [LLM Survey 논문 (2023)](https://arxiv.org/abs/2303.18223)
+- [GAN Survey 논문 (2020)](https://arxiv.org/abs/1906.01529)
+- [Diffusion Models Survey 논문 (2024)](https://arxiv.org/abs/2209.00796)
+- [RLHF 제안 논문](https://arxiv.org/abs/2203.02155)
+- [Large Language Model 서베이 논문](https://arxiv.org/abs/2303.18223)
+- [GPT-3 논문](https://arxiv.org/abs/2005.14165)
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- [Self-Instruct 논문](https://arxiv.org/abs/2212.10560)
+- [Self-Rewarding 논문](https://arxiv.org/pdf/2401.10020)
+- [GAN 논문](https://arxiv.org/abs/1406.2661)
+- [cGAN 논문](https://arxiv.org/abs/1411.1784)
+- [Pix2Pix 논문](https://arxiv.org/abs/1611.07004)
+- [CycleGAN 논문](https://arxiv.org/abs/1703.10593)
+- [StarGAN 논문](https://arxiv.org/abs/1711.09020)
+- [ProgressiveGAN 논문](https://arxiv.org/abs/1710.10196)
+- [StyleGAN 논문](https://arxiv.org/abs/1812.04948)
+- [VAE 논문](https://arxiv.org/abs/1312.6114)
+- [VQ-VAE 논문](https://arxiv.org/abs/1711.00937)
+- [DDPM 논문](https://arxiv.org/abs/2006.11239)
+- [DDIM 논문](https://arxiv.org/abs/2010.02502)
+- [Classifier Guidance 논문](https://arxiv.org/abs/2105.05233)
+- [Classifier-free Guidance 논문](https://arxiv.org/abs/2207.12598)
+- [LDM 논문](https://arxiv.org/abs/2112.10752)
+- [Latent Diffusion Model](https://arxiv.org/abs/2112.10752)
+- [Stable Diffusion XL](https://arxiv.org/abs/2307.01952)
+- [SDXL Turbo (Adversarial Diffusion Distillation)](https://arxiv.org/abs/2311.17042)
+
+
+
+
 ## 5.2 Product Serving
+- paper 없음
+
+
 ## 5.3 최적화/경량화
+- [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
+- [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877)
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks:](https://arxiv.org/abs/1803.03635)
+- [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
+- [Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning](https://arxiv.org/abs/2002.08307)
+- [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+- [Parameter-Efficient Transfer Learning for NLP ](https://arxiv.org/pdf/1902.00751)
+- [Prompt tuning ](https://arxiv.org/pdf/2104.08691)
+- [Prefix tuning ](https://arxiv.org/pdf/2101.00190)
+- [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://arxiv.org/abs/2005.00247)
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- []()
+- []()
+- []()
 
 # 6. Further Reading에 있었던 것들.
 ## 6.1 공통코스
@@ -208,44 +277,10 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [SynthText in the Wild Dataset](https://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 - [Tesseract (Off-the-shelf OCR open source)](https://tesseract-ocr.github.io/)
 - [Data annotation에 대한 OpenCV의 blogpost](https://opencv.org/blog/data-annotation/)
-- []()
-- []()
-- []()  
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 ### 6.2.5 Semantic Segmentation
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()  
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Segmentation models library](https://github.com/qubvel/segmentation_models)
 
 ## 6.3 NLP
 ### 6.3.1 NLP 이론
@@ -261,6 +296,50 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 ### 6.4.3 Competitive DS
 ### 6.4.4 RecSys 기초프로젝트
 ### 6.4.5 Movie Rec
+
+## 6.5 Generative AI
+- [LLM 모델 튜닝, 하나의 GPU로 가능할까? Parameter Efficient Fine-Tuning(PEFT)을 소개합니다!](https://devocean.sk.com/blog/techBoardDetail.do?ID=164779&boardType=techBlog)
+- [Alpaca 홈페이지](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+
+
+## 6.6 Product Serving
+- [Uber의 Michelangelo 플랫폼에 관한 글로, 대규모 머신러닝 모델 서빙 방법에 대한 통찰을 살펴볼 수 있습니다.](https://www.uber.com/en-KR/blog/scaling-michelangelo/)
+- [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
+- [쏘카의 Airflow 구축기](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
+- [쏘카의 Airflow 구축기2](https://tech.socarcorp.kr/data/2022/11/09/advanced-airflow-for-databiz.html)
+- [버킷플레이스 Airflow 도입기](https://www.bucketplace.com/post/2021-04-13-%EB%B2%84%ED%82%B7%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-airflow-%EB%8F%84%EC%9E%85%EA%B8%B0/)
+- [라인 엔지니어링 Airflow on Kubernetes](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-1)
+- [Day1, 2-2. 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- [Advanced User Guide for FastAPI](https://fastapi.tiangolo.com/advanced/)
+- [Awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)
+- [도커(Docker) 입문편: 컨테이너 기초부터 서버 배포까지](https://www.44bits.io/ko/post/easy-deploy-with-docker)
+- [GCP 공식 문서](https://cloud.google.com/docs?_gl=1*1qvbnv0*_up*MQ..&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoH2F6QSWY2FuBmbvo00dn9Q17vhlVZWt-IHvBB4JCmDoHUTjymDqQhoCnygQAvD_BwE&gclsrc=aw.ds&hl=ko)
+- [AWS를 이용한 MLOps 구축 사례 살펴보기](https://aws.amazon.com/ko/blogs/tech/aws-mlops-use-case/)
+- [MLOps Principles - Automation](https://ml-ops.org/content/mlops-principles#automation)
+- [Experiments Tracking](https://ml-ops.org/content/mlops-principles#reproducibility)
+- [Reproducibility](https://ml-ops.org/content/mlops-principles#reproducibility)
+- [Data Engineer Jobs](https://www.linkedin.com/jobs/data-engineer-jobs/)
+
+## 6.7 최적화/경량화
+- [ Softmax Temperature](https://medium.com/@harshit158/softmax-temperature-5492e4007f71)
+- [Lecture 10 - Knowledge Distillation | MIT 6.S965](https://www.youtube.com/watch?v=tT9Lnt6stwA)
+- [ A brief overview of Imitation Learning](https://smartlabai.medium.com/a-brief-overview-of-imitation-learning-8a8a75c44a9c)
+- [Dynamic Quantization](https://pytorch.org/tutorials/recipes/recipes/dynamic_quantization.html)
+- [딥러닝의 Quantization (양자화)와 Quantization Aware Training:](https://gaussian37.github.io/dl-concept-quantization/#qat-quantization-aware-training-%EB%B0%A9%EB%B2%95-1)
+- [Transfer Learning for Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+
+- [Brief Overview of Parallelism Strategies](https://afmck.in/posts/2023-02-26-parallelism/)
+- [Data Parallelism on CNN:](https://siboehm.com/articles/22/data-parallel-training)
+- [Pipeline Parallelism Algorithm](https://siboehm.com/articles/22/pipeline-parallel-training)
+- [단일 머신을 사용한 모델 병렬화 모범 사례](https://tutorials.pytorch.kr/intermediate/model_parallel_tutorial.html)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 # 7. Contribution 하는 방법
 
