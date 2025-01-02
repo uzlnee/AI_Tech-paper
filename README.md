@@ -118,6 +118,30 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 # 3. NLP 트랙 정리(Only Paper)
 ## 3.1 NLP 이론
+- [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
+- [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162/)
+- [LSTM](https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext)
+- [Highway Networks](https://arxiv.org/abs/1505.00387)
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+- [Sparse is Enough in Scaling Transformers](https://openreview.net/pdf?id=-b5OSCydOMe)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Layer Normalization](https://arxiv.org/abs/1607.06450)
+- [Group Normalization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)
+- [Attention is not Explanation](https://arxiv.org/pdf/1902.10186)
+- [Attention is not not Explanation](https://aclanthology.org/D19-1002.pdf)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+- [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+- [Neural Network Acceptability Judgments](https://arxiv.org/abs/1805.12471)
+- [A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/abs/1704.05426)
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
+- [Hierarchical Neural Story Generation](https://arxiv.org/abs/1805.04833)
+- [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
+
+  
 ## 3.2 NLP 기초 프로젝트
 ## 3.3 MRC
 ## 3.4 Data-Centric NLP
@@ -287,6 +311,19 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 ## 6.3 NLP
 ### 6.3.1 NLP 이론
+- [Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/en/chapter6/5)
+- [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [cs231n Lecture 10: Recurrent Neural Networks](https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf)
+- [The Exploding and Vanishing Gradients Problem in Time Series](https://medium.com/metaor-artificial-intelligence/the-exploding-and-vanishing-gradients-problem-in-time-series-6b87d558d22)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [BertViz: Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
+- [Foundations of NLP Explained Visually: Beam Search, How It Works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)
+- [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
+
+  
 ### 6.3.2 NLP 기초 프로젝트
 
 ### 6.3.3 MRC
