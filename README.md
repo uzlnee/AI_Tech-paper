@@ -1,13 +1,18 @@
 "# AI_Tech-paper" 
 
+---
+**감사합니다**<br>
+🚀 첫 번째로, **정유진**([GitHub](https://github.com/uzlnee)) 님께서 **NLP 이론** [논문](#31-nlp-이론)들과 [further more](#631-nlp-이론) 을 꼼꼼하게 보강해주셨습니다!
+
+---
 
 # 1. Introduction
 NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입니다.
 현재는 CV(Computer Vision) 트랙의 논문을 중심으로 정리하고 있으며, 추후 모든 트랙으로 확장할 예정입니다.
 
----
 # 2에서 5까지는 논문만 있습니다.
 - [6](#6-further-reading에-있었던-것들)부터 논문외의 사이트들을 정리하였습니다.
+
 # 2. CV 트랙 정리(Only Paper)
 ## 2.1 CV 이론
 - [VGGNet](https://arxiv.org/abs/1409.1556)  
