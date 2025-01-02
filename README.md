@@ -1,4 +1,4 @@
-"# AI_Tech-paper" 
+# NaverAIBoostCamp_7기_paper
 
 ---
 **감사합니다**<br>
