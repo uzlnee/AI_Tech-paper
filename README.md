@@ -327,17 +327,10 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [Dynamic Quantization](https://pytorch.org/tutorials/recipes/recipes/dynamic_quantization.html)
 - [딥러닝의 Quantization (양자화)와 Quantization Aware Training:](https://gaussian37.github.io/dl-concept-quantization/#qat-quantization-aware-training-%EB%B0%A9%EB%B2%95-1)
 - [Transfer Learning for Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
-
 - [Brief Overview of Parallelism Strategies](https://afmck.in/posts/2023-02-26-parallelism/)
 - [Data Parallelism on CNN:](https://siboehm.com/articles/22/data-parallel-training)
 - [Pipeline Parallelism Algorithm](https://siboehm.com/articles/22/pipeline-parallel-training)
 - [단일 머신을 사용한 모델 병렬화 모범 사례](https://tutorials.pytorch.kr/intermediate/model_parallel_tutorial.html)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
 # 7. Contribution 하는 방법
 
