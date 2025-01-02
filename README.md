@@ -178,9 +178,7 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [Prefix tuning ](https://arxiv.org/pdf/2101.00190)
 - [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://arxiv.org/abs/2005.00247)
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
-- []()
-- []()
-- []()
+
 
 # 6. Further Reading에 있었던 것들.
 ## 6.1 공통코스
