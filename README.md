@@ -5,6 +5,9 @@
 NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입니다.
 현재는 CV(Computer Vision) 트랙의 논문을 중심으로 정리하고 있으며, 추후 모든 트랙으로 확장할 예정입니다.
 
+---
+# 2에서 5까지는 논문만 있습니다.
+- [6](#6-further-reading에-있었던-것들)부터 논문외의 사이트들을 정리하였습니다.
 # 2. CV 트랙 정리(Only Paper)
 ## 2.1 CV 이론
 - [VGGNet](https://arxiv.org/abs/1409.1556)  
@@ -179,7 +182,9 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 - [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://arxiv.org/abs/2005.00247)
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 
+---
 
+**여기서부터는 논문외의 읽을거리들로 있었던 것들을 정리하였습니다.**
 # 6. Further Reading에 있었던 것들.
 ## 6.1 공통코스
 ### 6.1.1 Pytorch
