@@ -311,6 +311,19 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 ## 6.3 NLP
 ### 6.3.1 NLP 이론
+- [Byte-Pair Encoding tokenization](https://huggingface.co/learn/nlp-course/en/chapter6/5)
+- [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [cs231n Lecture 10: Recurrent Neural Networks](https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf)
+- [The Exploding and Vanishing Gradients Problem in Time Series](https://medium.com/metaor-artificial-intelligence/the-exploding-and-vanishing-gradients-problem-in-time-series-6b87d558d22)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [BertViz: Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
+- [Foundations of NLP Explained Visually: Beam Search, How It Works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)
+- [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
+
+  
 ### 6.3.2 NLP 기초 프로젝트
 
 ### 6.3.3 MRC
