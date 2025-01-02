@@ -118,6 +118,30 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 
 # 3. NLP 트랙 정리(Only Paper)
 ## 3.1 NLP 이론
+- [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
+- [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162/)
+- [LSTM](https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext)
+- [Highway Networks](https://arxiv.org/abs/1505.00387)
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+- [Sparse is Enough in Scaling Transformers](https://openreview.net/pdf?id=-b5OSCydOMe)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Layer Normalization](https://arxiv.org/abs/1607.06450)
+- [Group Normalization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)
+- [Attention is not Explanation](https://arxiv.org/pdf/1902.10186)
+- [Attention is not not Explanation](https://aclanthology.org/D19-1002.pdf)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+- [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+- [Neural Network Acceptability Judgments](https://arxiv.org/abs/1805.12471)
+- [A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/abs/1704.05426)
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
+- [Hierarchical Neural Story Generation](https://arxiv.org/abs/1805.04833)
+- [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
+
+  
 ## 3.2 NLP 기초 프로젝트
 ## 3.3 MRC
 ## 3.4 Data-Centric NLP
