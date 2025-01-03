@@ -151,7 +151,62 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 ## 3.3 MRC
 ## 3.4 Data-Centric NLP
 ## 3.5 Generative for NLP
-
+## 3.6 NLP Recent Trends
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf)
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
+- [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
+- [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)
+- [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+- [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
+- [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/abs/2302.01560)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580)
+- [LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models](https://arxiv.org/abs/2212.04088)
+- [Understanding the Capabilities of Large Language Models for Automated Planning](https://arxiv.org/abs/2305.16151)
+- [Towards Machines That Can Understand, Reason, & Plan](https://www.youtube.com/watch?v=_JfEScYyVCE)
+- [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/abs/2009.11462)
+- [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
+- [Survey of Hallucination in Natural Language Generation](https://arxiv.org/abs/2202.03629)
+- [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/abs/2309.01219)
+- [Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/abs/2309.00770)
+- [Biases in Large Language Models: Origins, Inventory, and Discussion](https://dl.acm.org/doi/10.1145/3597307)
+- [Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)
+- [Red Teaming Language Models with Language Models](https://arxiv.org/abs/2202.03286)
+- [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
+- [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133)
+- [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/abs/2004.09456)
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+- [Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP](https://arxiv.org/abs/2103.00453)
+- [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539)
+- [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)
+- [Retrieval-based Language Models and Applications](https://aclanthology.org/2023.acl-tutorials.6/)
+- [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/abs/2210.01504)
+- [Mind the Gap: Assessing Temporal Generalization in Neural Language Models](https://arxiv.org/abs/2102.01951)
+- [Investigating the Catastrophic Forgetting in Multimodal Large Language Model Fine-Tuning](https://openreview.net/forum?id=g7rMSiNtmA)
+- [Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora](https://aclanthology.org/2022.bigscience-1.1/)
+- [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
+- [Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting](https://aclanthology.org/2020.emnlp-main.634/)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9)
+- [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://aclanthology.org/2021.findings-acl.121/)
+- [TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models](https://aclanthology.org/2022.emnlp-main.418.pdf)
+- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
+- [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550/)
+- [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
+- [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://arxiv.org/abs/2212.10511)
+- [Entity-Based Knowledge Conflicts in Question Answering](https://aclanthology.org/2021.emnlp-main.565/)
+- [Teaching language models to support answers with verified quotes](https://arxiv.org/abs/2203.11147)
+- 
+- [Prompting GPT-3 To Be Reliable](https://openreview.net/forum?id=98p5x51L5af)
+- [TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models](https://aclanthology.org/2022.emnlp-main.418/)
+- [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652)
+- [Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)
+- 
 
 # 4. Recsys 트랙 정리(Only Paper)
 ## 4.1 Recsys 이론
@@ -334,7 +389,25 @@ NaverAIboostCamp에서 소개한 논문들을 주제별로 정리한 폴더입�
 ### 6.3.3 MRC
 ### 6.3.4 Data-Centric NLP
 ### 6.3.5 Generative for NLP
+### 6.3.6 NLP Recent Trends
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#external-apis)
+- [Introduction to LLM Agents](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- [BingAI](https://www.microsoft.com/ko-kr/bing?ep=816&form=MA13S9&es=170&cs=2199494592)
+- [WhatsApp’s AI shows gun-wielding children when prompted with ‘Palestine’](https://www.theguardian.com/technology/2023/nov/02/whatsapps-ai-palestine-kids-gun-gaza-bias-israel)
+- [Reducing Toxicity in Language Models](https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/)
+- [Red-Teaming Large Language Models](https://huggingface.co/blog/red-teaming)
+- [OpenAI Create completion](https://platform.openai.com/docs/api-reference/completions/create)
+- [Continual Learning: 꾸준히 성장하는 모델을 만들기 위한 기술](https://tech.scatterlab.co.kr/continual-learning/)
+- [Introducing ChatGPT search](https://openai.com/index/introducing-chatgpt-search/)
+- [OpenAI Function calling](https://platform.openai.com/docs/guides/function-calling)
+- [LangChain](https://www.langchain.com/)
+- [LangChain Explained in 13 Minutes](https://www.youtube.com/watch?v=aywZrzNaKjs)
+- [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial)
 
+
+  
 ## 6.4 Recsys
 ### 6.4.1 Recsys 이론
 ### 6.4.2 ML 기초 프로젝트
